@@ -1,1 +1,1 @@
-This is my first read me text file. 
+My first readme 
